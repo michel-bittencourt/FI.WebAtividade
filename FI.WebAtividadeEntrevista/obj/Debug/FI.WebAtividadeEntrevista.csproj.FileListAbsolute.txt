@@ -1,0 +1,381 @@
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\FI.WebAtividadeEntrevista.dll.config
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\FI.WebAtividadeEntrevista.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\FI.WebAtividadeEntrevista.pdb
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\csc.exe
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\csc.exe.config
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\csc.rsp
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\csi.exe
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\csi.exe.config
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\csi.rsp
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.AppContext.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Console.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.IO.Compression.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Net.Http.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.ValueTuple.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\vbc.exe
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\vbc.exe.config
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\vbc.rsp
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\VBCSCompiler.exe
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\Antlr3.Runtime.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\FI.AtividadeEntrevista.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\Newtonsoft.Json.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\System.Web.Helpers.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\System.Web.Mvc.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\System.Web.Optimization.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\System.Web.Razor.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\WebGrease.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\FI.AtividadeEntrevista.pdb
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\System.Web.Helpers.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\System.Web.Mvc.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\System.Web.Optimization.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\System.Web.Razor.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\Newtonsoft.Json.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\Antlr3.Runtime.pdb
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\obj\Debug\FI.WebAtividadeEntrevista.csproj.AssemblyReference.cache
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\obj\Debug\FI.WebAtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\obj\Debug\FI.WebAt.CEBAAAF9.Up2Date
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\obj\Debug\FI.WebAtividadeEntrevista.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevistaNN\FI.WebAtividadeEntrevista\obj\Debug\FI.WebAtividadeEntrevista.pdb
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\FI.WebAtividadeEntrevista.dll.config
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\FI.WebAtividadeEntrevista.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\FI.WebAtividadeEntrevista.pdb
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\csc.exe
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\csc.exe.config
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\csc.rsp
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\csi.exe
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\csi.exe.config
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\csi.rsp
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.AppContext.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Console.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.IO.Compression.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Net.Http.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.ValueTuple.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\vbc.exe
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\vbc.exe.config
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\vbc.rsp
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\VBCSCompiler.exe
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Antlr3.Runtime.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\FI.AtividadeEntrevista.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Options.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Newtonsoft.Json.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Buffers.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.ComponentModel.Annotations.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Memory.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Numerics.Vectors.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Text.Encodings.Web.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Web.Helpers.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Web.Mvc.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Web.Optimization.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Web.Razor.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\WebGrease.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\FI.AtividadeEntrevista.pdb
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Options.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Buffers.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Memory.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Numerics.Vectors.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Text.Encodings.Web.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Web.Helpers.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Web.Mvc.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Web.Optimization.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Web.Razor.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Newtonsoft.Json.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Antlr3.Runtime.pdb
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\obj\Debug\FI.WebAtividadeEntrevista.csproj.AssemblyReference.cache
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\obj\Debug\FI.WebAtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\obj\Debug\FI.WebAt.CEBAAAF9.Up2Date
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\obj\Debug\FI.WebAtividadeEntrevista.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\obj\Debug\FI.WebAtividadeEntrevista.pdb
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\FI.WebAtividadeEntrevista.dll.config
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\FI.WebAtividadeEntrevista.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\FI.WebAtividadeEntrevista.pdb
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\csc.exe
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\csc.exe.config
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\csc.rsp
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\csi.exe
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\csi.exe.config
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\csi.rsp
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.AppContext.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Console.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.IO.Compression.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Net.Http.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.ValueTuple.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\vbc.exe
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\vbc.exe.config
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\vbc.rsp
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\VBCSCompiler.exe
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Antlr3.Runtime.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\FI.AtividadeEntrevista.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Options.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Newtonsoft.Json.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Buffers.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.ComponentModel.Annotations.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Memory.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Numerics.Vectors.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Text.Encodings.Web.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Web.Helpers.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Web.Mvc.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Web.Optimization.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Web.Razor.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\WebGrease.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\FI.AtividadeEntrevista.pdb
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Options.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Buffers.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Memory.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Numerics.Vectors.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Text.Encodings.Web.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Web.Helpers.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Web.Mvc.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Web.Optimization.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Web.Razor.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Newtonsoft.Json.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Antlr3.Runtime.pdb
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\obj\Debug\FI.WebAtividadeEntrevista.csproj.AssemblyReference.cache
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\obj\Debug\FI.WebAtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\obj\Debug\FI.WebAt.CEBAAAF9.Up2Date
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\obj\Debug\FI.WebAtividadeEntrevista.dll
+C:\Users\Michel\Desktop\FI.WebAtividadeEntrevista - Copy\FI.WebAtividadeEntrevista\obj\Debug\FI.WebAtividadeEntrevista.pdb
